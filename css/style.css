@@ -1,0 +1,39 @@
+* {
+    font-family: 'Roboto', 'Helvetica', Arial, sans-serif;
+    text-align: center;
+}
+
+.title {
+    font-size: 75px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.home-image {
+    width: 50%;
+    height: auto;
+}
+
+.popular-header {
+    font-size: 45px;
+    padding-top: 25px;
+}
+
+
+/* combine please */
+
+.popular-recipes {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.bottom-padding {
+    padding-bottom: 125px;
+}
