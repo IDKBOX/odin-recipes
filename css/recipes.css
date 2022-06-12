@@ -1,0 +1,46 @@
+* {
+    font-family: 'Roboto', 'Helvetica', Arial, sans-serif;
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+.title {
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+img {
+    width: auto;
+    height: 650px;
+    padding-bottom: 35px;
+}
+
+h2 {
+    padding-top: 25px;
+    font-size: 35px;
+}
+
+.top-desc {
+    font-size: 35px;
+    color: rgb(155, 155, 155);
+}
+
+li {
+    margin: 20px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.padding-link-top {
+    padding-top: 65px;
+}
+
+.padding-link-bot {
+    padding-bottom: 100px;
+}
