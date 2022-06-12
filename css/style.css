@@ -26,6 +26,10 @@
     padding: 0;
 }
 
+.popular-recipes li {
+    padding: 7px;
+}
+
 .popular-recipes a {
     text-decoration: none;
     color: black;
